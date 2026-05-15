@@ -1,7 +1,7 @@
 ---
 title: "Assignment_3_Looping"
 author: "Alicia Magliato and Kalena Sapp"
-format: html
+format: pdf
 editor: visual
 ---
 
